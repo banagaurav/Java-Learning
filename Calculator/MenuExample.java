@@ -5,7 +5,7 @@ class MenuExample{
     public MenuExample() {
     JFrame f = new JFrame("Menu and MenuItem Example");
     JMenuBar mb = new JMenuBar();
-    //add menu
+    //add menu item
     menu= new JMenu("Menu");
     //add submenu
     submenu = new JMenu("Sub Menu");
